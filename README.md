@@ -9,23 +9,24 @@
 * 🧠  I'm learning 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚏𝚘𝚛 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I can break the fourth wall
-* 📫 :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Ars_Baobao-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ars_Baobao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Ars191121@gmail.com)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Ars_Baobao-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ars_Baobao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Ars191121@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
+    <a href="https://t.me/Ars_Baobao" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
+    <!--<a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    
+     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a> -->
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="https://vk.com/ars_ernst" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
