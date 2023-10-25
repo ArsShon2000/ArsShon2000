@@ -9,7 +9,7 @@
 * 🧠  I'm learning 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚏𝚘𝚛 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I can break the fourth wall
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Ars_Baobao-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ars_Baobao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Ars191121@gmail.com)
+*  ✉️   You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Ars_Baobao-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ars_Baobao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Ars191121@gmail.com)
 
 ---
 
