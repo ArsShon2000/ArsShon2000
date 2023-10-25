@@ -1,13 +1,37 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=ℍ𝕚%20𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=𝕀%20'%20𝕞%20𝔸𝕣𝕤%20!&descAlignY=61&descAlign=72)
 
 
-• 👨🏻‍🎓 𝙸 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚌𝚘𝚞𝚛𝚜𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚝𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝚌𝚎𝚗𝚝𝚎𝚛 "𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝" 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚒𝚛𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 "𝚀𝚃𝟼". 𝙰𝚝 𝚝𝚑𝚎 𝚖𝚘𝚖𝚎𝚗𝚝 𝙸 𝚊𝚖 𝚝𝚊𝚔𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚏𝚘𝚛 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 (𝚊𝚞𝚝𝚞𝚖𝚗, 𝟸𝟶𝟸𝟹). 𝙸 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 𝚌𝚘𝚛𝚙𝚘𝚛𝚊𝚝𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚝 𝙼𝚘𝚜𝚌𝚘𝚠 𝙿𝚘𝚕𝚢𝚝𝚎𝚌𝚑𝚗𝚒𝚌 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 (𝚋𝚞𝚝 𝚍𝚒𝚍 𝚗𝚘𝚝 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎). • 💼 𝙰𝚝 𝚝𝚑𝚎 𝚖𝚘𝚖𝚎𝚗𝚝 𝙸 𝚑𝚊𝚟𝚎 𝟷.𝟻 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚒𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍 𝚘𝚏 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 (𝙹𝚂) 𝚊𝚗𝚍 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 (𝙲 , 𝚀𝚃𝟼, 𝙰𝚛𝚍𝚞𝚒𝚗𝚘)
+• 👨🏻‍🎓 𝙸 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚌𝚘𝚞𝚛𝚜𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚝𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝚌𝚎𝚗𝚝𝚎𝚛 "𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝" 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚒𝚛𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 "𝚀𝚃𝟼". 𝙰𝚝 𝚝𝚑𝚎 𝚖𝚘𝚖𝚎𝚗𝚝 𝙸 𝚊𝚖 𝚝𝚊𝚔𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚏𝚘𝚛 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 (𝚊𝚞𝚝𝚞𝚖𝚗, 𝟸𝟶𝟸𝟹). 𝙸 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 𝚌𝚘𝚛𝚙𝚘𝚛𝚊𝚝𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚝 𝙼𝚘𝚜𝚌𝚘𝚠 𝙿𝚘𝚕𝚢𝚝𝚎𝚌𝚑𝚗𝚒𝚌 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 (𝚋𝚞𝚝 𝚍𝚒𝚍 𝚗𝚘𝚝 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎). 
+• 💼 𝙰𝚝 𝚝𝚑𝚎 𝚖𝚘𝚖𝚎𝚗𝚝 𝙸 𝚑𝚊𝚟𝚎 𝟷.𝟻 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚒𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍 𝚘𝚏 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 (𝙹𝚂) 𝚊𝚗𝚍 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 (𝙲 , 𝚀𝚃𝟼, 𝙰𝚛𝚍𝚞𝚒𝚗𝚘)
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [Ars191121@gmail.com](mailto:Ars191121@gmail.com)
 * 🧠  I'm learning 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚏𝚘𝚛 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I can break the fourth wall
+* 📫 :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-Ars_Baobao-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ars_Baobao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Ars191121@gmail.com)
+
+---
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a> -->
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    </a> -->
+  </div>
 
 ### Skills
 
