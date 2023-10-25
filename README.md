@@ -1,4 +1,10 @@
-ℍ𝕚, 𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖, 𝕀'𝕞 𝔸𝕣𝕤!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/teuchezh/teuchezh/blob/main/github-metrics.svg">](https://github.com/teuchezh/teuchezh)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+𝕚, 𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖, 𝕀'𝕞 𝔸𝕣𝕤!
 ------------------------------------
 
 • 👨🏻‍🎓 𝙸 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚌𝚘𝚞𝚛𝚜𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚝𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝚌𝚎𝚗𝚝𝚎𝚛 "𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝" 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚒𝚛𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 "𝚀𝚃𝟼". 𝙰𝚝 𝚝𝚑𝚎 𝚖𝚘𝚖𝚎𝚗𝚝 𝙸 𝚊𝚖 𝚝𝚊𝚔𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚏𝚘𝚛 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 (𝚊𝚞𝚝𝚞𝚖𝚗, 𝟸𝟶𝟸𝟹). 𝙸 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 𝚌𝚘𝚛𝚙𝚘𝚛𝚊𝚝𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚝 𝙼𝚘𝚜𝚌𝚘𝚠 𝙿𝚘𝚕𝚢𝚝𝚎𝚌𝚑𝚗𝚒𝚌 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 (𝚋𝚞𝚝 𝚍𝚒𝚍 𝚗𝚘𝚝 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎). • 💼 𝙰𝚝 𝚝𝚑𝚎 𝚖𝚘𝚖𝚎𝚗𝚝 𝙸 𝚑𝚊𝚟𝚎 𝟷.𝟻 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚒𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍 𝚘𝚏 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 (𝙹𝚂) 𝚊𝚗𝚍 𝚋𝚊𝚌𝚔𝙴𝚗𝚍 (𝙲 , 𝚀𝚃𝟼, 𝙰𝚛𝚍𝚞𝚒𝚗𝚘)
