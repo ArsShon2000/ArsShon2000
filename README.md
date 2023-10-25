@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=ℍ𝕚,%20𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=𝕀%10'%10𝕞%20𝔸𝕣𝕤%20!&descAlignY=51&descAlign=62)
+![ заголовок ] ( https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256§ion=header&text= ℍ𝕚,%20𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖 !&fontSize=75&animation=fadeIn&fontAlignY=38&desc= 𝕀%20'%20𝕞%20𝔸𝕣𝕤 %20 !&descAlignY=51&descAlign=62 )
 
 
 
