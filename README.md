@@ -13,6 +13,20 @@
 
 ---
 
+```javascript
+const Ars:IPerson = { 
+  characteristics: {
+    age: 25,
+    address: "Russia, Moscow",
+    profession: "UI/UX developer"
+  },
+  code: ["C++", "Arduino", "Javascript", "Typescript", "HTML5", "CSS3/SASS/SCSS"],
+  tools: ["QT6", "React (ReactDND, ReactRouter)", "NextJS", "Redux", "Fetch/Axios", "NestJS", "Express",  "PostgreSQL/Sqlite", "MongoBD", "TypeORM/Prisma", "Cypress", "Jest", "Docker"]
+}
+```
+
+---
+
 ### 🤝 Социальные сети:
 
   
